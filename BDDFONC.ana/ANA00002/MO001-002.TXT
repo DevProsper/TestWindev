@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+PAYS		TAR	139	nouvelle taille enregistrement : 139
+PAYS	DRAPEAU	CNW	Mémo Binaire$Chaîne	la rubrique DRAPEAU a pour nouveau type Mémo image
+PLATEAU		TAR	285	nouvelle taille enregistrement : 285
+PLATEAU	PHOTO	CNW	Mémo Binaire$Chaîne	la rubrique PHOTO a pour nouveau type Mémo image

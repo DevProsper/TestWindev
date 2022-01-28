@@ -1,0 +1,6 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+PAYS		NFI		nouveau fichier
+CONTINENT		NFI		nouveau fichier
+PLATEAU		NFI		nouveau fichier
+Contrainte_PAYS_PLATEAU		NWL	PAYS (IDPAYS) et PLATEAU (IDPAYS)	Nouvelle liaison entre les fichiers PAYS (IDPAYS) et PLATEAU (IDPAYS)
+Contrainte_CONTINENT_PAYS		NWL	CONTINENT (IDCONTINENT) et PAYS (IDCONTINENT)	Nouvelle liaison entre les fichiers CONTINENT (IDCONTINENT) et PAYS (IDCONTINENT)
